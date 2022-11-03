@@ -15,8 +15,7 @@
 		<label for=url>个人主页</label>
 		<input name=url id=url type=url /><br/>
 		<label for=memo>个人简介</label>
-		<textarea name=memo id=memo required ></textarea><br/>
-		<input type=submit>
-		</form>
-	</body>
+		
+		
+</body>
 </html>
